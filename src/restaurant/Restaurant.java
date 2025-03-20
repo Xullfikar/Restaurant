@@ -59,7 +59,7 @@ public class Restaurant {
 				}				
 			}
 		}
-		chef.setOrders("  - Chef " + chef.getName() + "membuat " + name + " untuk" + visitor.getName() + " Sejumlah " + qty);
+		chef.setOrders("  - Chef " + chef.getName() + " membuat " + name + " untuk" + visitor.getName() + " Sejumlah " + qty);
 	}
 
 	public void showTotalIncome() {
